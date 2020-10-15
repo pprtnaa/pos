@@ -55,7 +55,7 @@ define('INSTALLED', true);
 	 *
 	 * This is usefull when you will host the app inside a subdirectory of root
 	 */
-	define('SUBDIRECTORY', 'es');
+	define('SUBDIRECTORY', 'pos');
 
 
 	/*
@@ -76,7 +76,7 @@ define('INSTALLED', true);
 	 * If you use FTP for filemanger then just left it as blank
 	 * Example: http://modernpos/storage directory
 	 */
-	define('FILEMANAGERURL', 'http://localhost/es/storage/products');
+	define('FILEMANAGERURL', 'http://localhost/pos/storage/products');
 
 
 	/*
